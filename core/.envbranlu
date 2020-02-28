@@ -1,0 +1,13 @@
+APP_ENV=local
+APP_DEBUG=true
+APP_KEY=base64:mT0axZCrF5kj5NzlZiPvBwoouD2dsk7aJo7ddD4bD9U=
+
+DB_HOST=localhost
+DB_DATABASE=inventory_branlu
+DB_USERNAME=root_branlu3
+DB_PASSWORD=3EXT57c[2I9A
+IS_VERIFIED=true
+MAIL_DRIVER=%MAIL_DRIVER%
+
+CACHE_DRIVER=file
+SESSION_DRIVER=file
